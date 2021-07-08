@@ -24,7 +24,5 @@ public class Nota {
     
     public double obtenerValor(){
         return valor;
-    }
-    
-    
+    }  
 }
